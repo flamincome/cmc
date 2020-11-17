@@ -1,0 +1,57 @@
+{
+	"provider": "flamincome",
+	"provider_logo": "https://avatars0.githubusercontent.com/u/70206242?s=100&v=4",
+	"provider_URL": "https://flamincome.finance/",
+	"links": [
+		{
+			"title": "Twitter",
+			"link": "https://twitter.com/flamincome"
+		}
+	],
+	"pools": [
+		{
+			"name": "USDT VAULT",
+			"pair": "USDT",
+			"pairLink": "https://flamincome.finance/",
+			"logo": "https://avatars0.githubusercontent.com/u/70206242?s=100&v=4",
+			"poolRewards": [
+				"USDT"
+			],
+			"apr": 3.47,
+			"totalStaked": 33057976.21681692
+		},
+		{
+			"name": "WBTC VAULT",
+			"pair": "WBTC",
+			"pairLink": "https://flamincome.finance/",
+			"logo": "https://avatars0.githubusercontent.com/u/70206242?s=100&v=4",
+			"poolRewards": [
+				"WBTC"
+			],
+			"apr": 3.93,
+			"totalStaked": 47152065.97592938
+		},
+		{
+			"name": "WETH VAULT",
+			"pair": "WETH",
+			"pairLink": "https://flamincome.finance/",
+			"logo": "https://avatars0.githubusercontent.com/u/70206242?s=100&v=4",
+			"poolRewards": [
+				"WETH"
+			],
+			"apr": 0.33,
+			"totalStaked": 22226282.620711666
+		},
+		{
+			"name": "UNI-V2[WBTC] VAULT",
+			"pair": "UNI-V2[WBTC]",
+			"pairLink": "https://flamincome.finance/",
+			"logo": "https://avatars0.githubusercontent.com/u/70206242?s=100&v=4",
+			"poolRewards": [
+				"UNI-V2[WBTC]"
+			],
+			"apr": 0,
+			"totalStaked": 12328.98538037283
+		}
+	]
+}
